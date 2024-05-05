@@ -1,0 +1,5 @@
+# Created at 2024-05-04T18:54:17.721
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Personal\UMG 2024\Programación III\GIT\first_app_in_cloud\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
